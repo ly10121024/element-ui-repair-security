@@ -1,7 +1,7 @@
 {
-  "name": "element-ui-repair-security",
-  "version": "0.0.1",
-  "description": "在element-ui的最新版本上修复lodash的安全策略",
+  "name": "element-ui",
+  "version": "2.15.14",
+  "description": "A Component Library for Vue.js.",
   "main": "lib/element-ui.common.js",
   "files": [
     "lib",
