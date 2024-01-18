@@ -32,10 +32,6 @@
   },
   "faas": [
     {
-      "domain": "element",
-      "public": "temp_web/element"
-    },
-    {
       "domain": "element-theme",
       "public": "examples/element-ui",
       "build": [
