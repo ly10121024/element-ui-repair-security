@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import { isNumber, chain, multiply, padStart, reduce } from "lodash-es";
+import { isNumber, chain, multiply, padStart, reduce } from "lodash";
 export default {
   name: "ElStatistic",
   data() {
